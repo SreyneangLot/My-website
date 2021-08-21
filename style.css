@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(194, 241, 194)  ;
+    font-family: 'Merriweather', serif;
+    font-family: 'Metal', cursive;
+    font-family: 'Taprom', cursive;
+}
+#wrap_page{
+    width: 1090px
+    margin 0 auto;
+    overflow: hidden;
+    padding: 20px;
+}
+#header{text-align: center;
+
+}
+#meun ul li{
+    display: inline;
+    margin-left: 30px;
+    padding-left: 50px;
+}
+#content_page{
+    width: 55%;
+    float: left;
+}
+#sidebar{
+    width: 45%;
+    float: right;
+
+}
+h2{
+    color: brown
+}
+p{
+    font-size: 15px;
+    line-height: 35px;
+    color: sienna;
+} 
+#logo{
+    margin-top:  10px; 
+    padding: 10px;
+    border-bottom: rgb(180, 169, 169);
+}
+#navigation{
+    background: rgb(221, 213, 213);
+}
